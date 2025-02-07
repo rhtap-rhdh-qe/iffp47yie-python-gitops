@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iffp47yie-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iffp47yie-python-gitops
